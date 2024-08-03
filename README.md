@@ -1,14 +1,17 @@
 ## Hi there 👋
 
-**shrutibakutra/shrutibakutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome 👋 , I'm Shruti.
+I'm a software developer, specializing in building exceptional websites and mobile applications, and everything in between.
 
-Here are some ideas to get you started:
+🛠  Tech Stack
+📜  Language:  Javascript 
+📱  Mobile:  React Native
+🗄  Backend:  Node.js ExpressJS 
+🌐  Frontend:  React 
+🛢  Database:  MongoDB MySQL Postgresql
+⚙️  VCS:   Git GitHub Bitbucket
+🔧  IDE's:  Visual Studio Code Sublime Text
+🖥  Design:   Figma
+♾️  Devops:  Docker
+Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
