@@ -22,6 +22,3 @@ I'm a software developer, specializing in building exceptional websites and mobi
 🖥  Design:   Figma
 
 ♾️  Devops:  Docker
-
-Connect with me:
-
