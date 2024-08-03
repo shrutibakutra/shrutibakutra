@@ -3,7 +3,7 @@
 Welcome 👋 , I'm Shruti.
 I'm a software developer, specializing in building exceptional websites and mobile applications, and everything in between.
 
-🛠  Tech Stack
+## 🛠  Tech Stack
 
 📜  Language:  Javascript 
 
